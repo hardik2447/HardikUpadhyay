@@ -1,17 +1,15 @@
 # Hi there!
 
 I'm a Solution Architect and Techno Geek who is passionate about everything related to technology and business transformation ideas. <br>
-In my free time, I run [a blog](https://blog.savetchuk.com/) where I write about interesting things that I learn along the way. <br>
-When I need to unwind, I usually spend time with family and go for a walk.
 
 ## About Me
 - Location: London UK
-- Experience: 17+ years 🧑🏻‍💻
 
 ## Skills
 
-###Certifications
-https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main
+#### Certifications
+[![MS Power Plaform Solution Architect](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg)](https://learn.microsoft.com/api/credentials/share/en-us/hardikupadhyay/915BEA3D4B122A99?sharingId=F142E4E4F1DECE8C)
+
 #### Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/hardik2447)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/hardik2447)
