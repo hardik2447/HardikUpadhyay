@@ -7,8 +7,8 @@ I'm a Solution Architect and Techno Geek who is passionate about everything rela
 
 ## Skills
 
-#### Certifications
-[![MS Power Plaform Solution Architect](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg)](https://learn.microsoft.com/api/credentials/share/en-us/hardikupadhyay/915BEA3D4B122A99?sharingId=F142E4E4F1DECE8C)
+<!-- #### Certifications
+[![MS Power Plaform Solution Architect](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg)](https://learn.microsoft.com/api/credentials/share/en-us/hardikupadhyay/915BEA3D4B122A99?sharingId=F142E4E4F1DECE8C)  -->
 
 #### Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/hardik2447)
